@@ -1,6 +1,8 @@
 # natbot
 
-Drive a browser with GPT-3
+Drive a browser with Ollama
+
+Work in progress: Replacing OpenAI components with Ollama python API (may never be fisnished)
 
 Here's a demo: https://twitter.com/natfriedman/status/1575631194032549888
 
